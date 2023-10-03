@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "rLoRI/VBFTz937HLwjD8FeJmOM0kj2ndxs2r88FjxSo=",
+  "Source": "Streamer",
+  "BasePath": "_content/Streamer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Streamer/wwwroot",
+      "Source": "Streamer",
+      "ContentRoot": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/",
+      "BasePath": "_content/Streamer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/admin-tester2.html",
+      "SourceId": "Streamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/",
+      "BasePath": "_content/Streamer",
+      "RelativePath": "admin-tester2.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/admin-tester2.html"
+    },
+    {
+      "Identity": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/sdk.js",
+      "SourceId": "Streamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/",
+      "BasePath": "_content/Streamer",
+      "RelativePath": "sdk.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sdk.js"
+    },
+    {
+      "Identity": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/Test-Animation1.html",
+      "SourceId": "Streamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/",
+      "BasePath": "_content/Streamer",
+      "RelativePath": "Test-Animation1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Test-Animation1.html"
+    },
+    {
+      "Identity": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/Test-Animation2.html",
+      "SourceId": "Streamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sandro/Downloads/3Digital_Streamer/Streamer/wwwroot/",
+      "BasePath": "_content/Streamer",
+      "RelativePath": "Test-Animation2.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Test-Animation2.html"
+    }
+  ]
+}

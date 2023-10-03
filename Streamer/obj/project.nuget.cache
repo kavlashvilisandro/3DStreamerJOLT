@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1fuzJtyOmtuQu/bbAWGk/TGOV9uVH/9Ua2NTqW5y1cNBsMgm9OrYsN4fhVo/svpWFIDs3QKXosZNh/J5dZGeg==",
+  "success": true,
+  "projectFilePath": "/home/sandro/Downloads/3Digital_Streamer/Streamer/Streamer.csproj",
+  "expectedPackageFiles": [
+    "/home/sandro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/sandro/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/home/sandro/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/sandro/.nuget/packages/selenium.webdriver/4.13.1/selenium.webdriver.4.13.1.nupkg.sha512",
+    "/home/sandro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/sandro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/sandro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/sandro/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
